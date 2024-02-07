@@ -5,7 +5,7 @@
 > O aprendizado de máquina automatizado permite que você experimente vários algoritmos e parâmetros para treinar vários modelos e identificar o melhor para seus dados. Nesse passo a passo, você usará um conjunto de dados de detalhes históricos de aluguel de bicicletas para treinar um modelo que prevê o número de aluguel de bicicletas esperado em um determinado dia, com base em características sazonais e meteorológicas.
 
 > [!WARNING]
-> O processo costuma demorar em média 15 minutos, mas pode se estender. Caso demore mais que 1 hora para concluir é recomendável refazer o processo.
+> O processo de treinamento do modelo costuma demorar em média 15 minutos, mas pode se estender. Caso demore mais que 1 hora para concluir é recomendável refazer o processo.
 
 # Uso
 
@@ -148,7 +148,7 @@ Criar um novo trabalho automatizado, treinar, criar modelo, implantar, testar o 
 <details>
 <summary>Implantar e testar o modelo</summary>
 
-1. Na guia Modelo do melhor modelo treinado pelo seu trabalho automatizado de machine learning, selecione Implantar e use a opção de serviço Web para implantar o modelo com as seguintes configurações:
+1. Na guia melhor modelo treinado pelo seu trabalho automatizado de machine learning, selecione Implantar e use a opção de serviço Web para implantar o modelo com as seguintes configurações:
         Nome : prever-aluguéis;
         Descrição : Prever aluguel de bicicletas;
         Tipo de computação : Instância de Contêiner do Azure;
