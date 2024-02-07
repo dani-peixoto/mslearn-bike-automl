@@ -11,16 +11,6 @@
 
 Criar um novo trabalho automatizado, treinar, criar modelo, implantar, testar o modelo e o serviço implantado.
 
-# Índice
-
-* [Crie um espaço de trabalho do Azure Machine Learning](#crie-um-espaço-de-trabalho-do-azure-machine)
-* [Use aprendizado de máquina automatizado para treinar um modelo](#use-aprendizado-de-maquina-automatizado-para-treinar-um-modelo)
-* [Avalie o melhor modelo](#avalie-o-melhor-modelo)
-* [Implantar e testar o modelo](#implantar-e-testar-o-modelo)
-* [Testar o serviço implantado](#testar-o-serviço-implantado)
-* [Excluir](#excluir)
-
-
 # Processo
 
 <details>
